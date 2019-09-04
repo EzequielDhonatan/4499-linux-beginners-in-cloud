@@ -1,0 +1,25 @@
+bin, sbin: Comandos Essenciais Público ou Administrativo;
+
+boot: Arquivos de Boot (Kernel/Grub);
+
+etc: Arquivos de Configuração;
+
+tmp: Arquivos Temporários;
+
+dev: Arquivos de Dispositivos;
+
+media: Montagem de Mídias;
+
+mnt: Montagem de Compartilhamentos;
+
+lib: Bibliotecas do Sistema;
+
+var: Armazenamento de Dados Variáveis;
+
+srv: Armazenamento de Dados de Serviços
+
+root, home: Armazena Dados de Usuários (Diretório Pessoal);
+
+usr: Programas do GNU/Linux (Unix, System Resources);
+
+opt: Programas Opcionais;
